@@ -1,2 +1,4 @@
 # Coursera Project - Portfolio
-Create portfolio using HTML and CSS
+Build Your Portfolio Website (responsive) with HTML and CSS
+
+https://sourabhr23.github.io/srportfolio.github.io/index.html
